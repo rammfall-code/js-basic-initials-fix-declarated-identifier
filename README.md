@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-fix-declarated-identifier
 
-## Text
+## Fix names of varialbe
 
 ## Criteria:
 
